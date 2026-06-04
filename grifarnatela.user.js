@@ -8,8 +8,8 @@
 // @match        https://*.mercadolibre.com/*
 // @grant        GM_xmlhttpRequest
 // @connect      docs.google.com
-// @updateURL    https://raw.githubusercontent.com/xTiozao/grifarnatela/main/script.user.js
-// @downloadURL  https://raw.githubusercontent.com/xTiozao/grifarnatela/main/script.user.js
+// @updateURL    https://raw.githubusercontent.com/xTiozao/grifarnatela/main/grifarnatela.user.js
+// @downloadURL  https://raw.githubusercontent.com/xTiozao/grifarnatela/main/grifarnatela.user.js
 // ==/UserScript==
 
 (function () {
