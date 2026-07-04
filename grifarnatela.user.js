@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mercado Livre - Expand & Highlight
 // @namespace    http://tampermonkey.net/
-// @version      5.2
+// @version      5.3
 // @description  Expande anúncios e grifa códigos MLB da planilha no Mercado Livre
 // @author       You
 // @match        https://*.mercadolivre.com.br/*
