@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mercado Livre - Expand & Highlight
 // @namespace    https://github.com/xTiozao
-// @version      5.3
+// @version      5.4
 // @description  Expande anúncios e grifa códigos MLB da planilha no Mercado Livre
 // @author       xTiozao
 // @match        https://*.mercadolivre.com.br/*
